@@ -111,13 +111,13 @@
 3. Mara.Kal_2007.V23_chimps_hds.RData: - model results (2007 survey) for chimpanzees from a hierarchical distance sampling model (Bayesian inference).
 4. Mara.Kal_2007.V23_chimps_hds.RData: - model results (2021 survey) for chimpanzees from a hierarchical distance sampling model (Bayesian inference).
 5. Mara.Kal_2007_2021.V23_chimps_mhds.RData: - model results (2007 & 2021 surveys) for chimpanzees from a modified hierarchical distance sampling model (Bayesian inference).
-					## File greater than 25mb - Run this script `MHDS_Maramagambo_Kalinzu_chimpanzees_2007_2021.R` to obtain model results.
+					## File greater than 25mb Github file size limit - Run this script `MHDS_Maramagambo_Kalinzu_chimpanzees_2007_2021.R` to obtain model results.
 6. Eles_2007_mara_cds.RData: - model results (2007 survey) for elephants from a conventional distance sampling model (Bayesian inference).
 7. Eles_2021_mara_cds.RData: - model results (2007 survey) for elephants from a conventional distance sampling model (Bayesian inference).
 8. Eles_2007_mara_hds.RData: - model results (2007 survey) for elephants from a heirarchical distance sampling model (Bayesian inference).
 9. Eles_2007_mara_hds.RData: - model results (2021 survey) for elephants from a heirarchical distance sampling model (Bayesian inference).
 10. Eles_2007_2021_mara_mhds.RData: - model results (2007 & 2021 surveys) for elephants from a modified hierarchical distance sampling model (Bayesian inference).
-                                     ## File greater than 25mb - Run this script `MHDS_Maramagambo_elephants_2007_2021.R` to obtain model results.
+                                     ## File greater than 25mb Github file size limit - Run this script `MHDS_Maramagambo_elephants_2007_2021.R` to obtain model results.
 
 # # Data - protected area boundaries & elevation raster
 
