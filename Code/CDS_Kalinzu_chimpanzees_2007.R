@@ -14,8 +14,9 @@
 #-----------------------#
 #-Set Working Directory-#
 #-----------------------#
+library(here)
 
-setwd("..../Data")
+setwd(here::here("Data"))
 
 #----------------#
 #-Load libraries-#
