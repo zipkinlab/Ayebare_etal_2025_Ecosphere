@@ -13,7 +13,8 @@
 #-Set Working Directory-#
 #-----------------------#
 
-setwd(".../Data")
+library(here)
+setwd(here::here("Data"))
 
 #----------------#
 #-Load libraries-#
