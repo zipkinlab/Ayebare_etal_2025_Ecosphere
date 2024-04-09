@@ -36,7 +36,7 @@
 1.  `Figure3_effect_of_elevation.R`: Contains code to generate figure 3 - effect of elevation on the expected density of chimpanzees and elephants.
 2.  `Figure4_effect_of_elevation.R`: Contains code to generate figure 4 - map showing the spatial changes in expected population density from 2007 to 2021 for chimpanzees and elephants.
 3.  `Population_status_and_change_spatial.R`: Contains code to estimate the status and change in population density of chimpanzees and elephant - 2021 to 2007.
-4.  `Spatial_variation_in_density_chimps_2021.R`: Contains code to generate figure 5 on the spatial distribution of chimpanzees using the hierarchical and modified hierarchical distance sampling models (2021 survey)
+4.  `Spatial_variation_in_density_chimps_2021.R`: Contains code to generate figure 5 on the spatial distribution of chimpanzees using the hierarchical and modified hierarchical distance sampling models (2021 survey).
 5.  `Spatial_variation_in_density_eles_2021.R`: Contains code to generate figure 5 on the spatial distribution of elephants using the hierarchical and modified hierarchical distance sampling models (2021 survey).
 6.  `Figure6_cds_density_estimation.R`: Contains code to generate figure 6 on the population density estimates for chimpanzees and elephants (2007 and 2021 surveys) - conventional distance sampling model.
 
