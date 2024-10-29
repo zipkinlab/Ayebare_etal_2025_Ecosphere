@@ -40,11 +40,11 @@ rm(list=ls())
 # Note: Transects 1 to 36 are located in Maramagambo Forest Reserve
 
 
-### Chimp nest distance observations- second & third visits##
+### Elephant dung distance observations- second & third visits##
 V23 <- read.csv("Ele_V23_2021.csv", header=TRUE)
 head(V23)
 
-### Chimp nest observations- aggregated per transect
+### Elephant dung observations- aggregated per transect
 V123 <- read.csv("Ele_2021.csv", header=TRUE)
 head(V123)
 
@@ -113,7 +113,7 @@ dim(eledung)
 
 
 #-------------------------------------------------------#
-## Number of nests detected per transect- Visit 2 & 3
+## Number of dung detected per transect- Visit 2 & 3
 #-------------------------------------------------------#
 V23 <- eledung$V23
 sum(V23)
@@ -122,7 +122,6 @@ sum(V23)
 ## Area per transect - offset
 #---------------------------#
 A <- eledung$A
-
 
 
 #-------------------------#
@@ -158,8 +157,6 @@ db23 <- length(midpt23)
 #Number of transects surveyed
 #-----------------------------#
 nsites <- 36
-
-
 
 
 # Bundle data (2021 survey) into a list
@@ -210,11 +207,10 @@ for(s in 1:nsites){
   log(lambda23[s]) <- beta0 + beta1 * elev[s] + beta2 * pow(elev[s], 2) + log(A[s]) # linear model abundance
 
   
-  
-  #Expected Number of Groups
+  #Poisson–gamma mixture
     lambda.star23[s] <- rho23[s] * lambda23[s]
 
-    #Overdispersion parameter for Expected Number of Groups
+    #Overdispersion parameter 
     rho23[s] ~ dgamma(r.N23, r.N23)
   
 }
