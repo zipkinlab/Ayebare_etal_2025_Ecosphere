@@ -5,7 +5,7 @@
 ### Maramagambo Forest Reserve
 
 ## Description : To format the data
-##             : Run a modified hierarchical distance sampling model 
+##             : Run a hierarchical distance sampling model 
 ##             : Estimate population density for the 2021 survey
 
 #------------------------------------------------------------------------------------------------##
