@@ -207,7 +207,7 @@ for(s in 1:nsites){
   log(lambda23[s]) <- beta0 + beta1 * elev[s] + beta2 * pow(elev[s], 2) + log(A[s]) # linear model abundance
 
   
-  #Poisson–gamma mixture
+    #Negative binomial formulation
     lambda.star23[s] <- rho23[s] * lambda23[s]
 
     #Overdispersion parameter 
