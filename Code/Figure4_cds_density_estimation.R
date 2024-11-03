@@ -1,10 +1,10 @@
 
 
 ## Authors: Neil Gilbert & Samuel Ayebare
-##Script:  Figure6_cds_density_estimation.R
+##Script:  Figure4_cds_density_estimation.R
 
 
-## Description : To plot figure6 - Population density estimates for chimpanzees and elephants (2007 and 2021 surveys), 
+## Description : To plot figure4 - Population density estimates for chimpanzees and elephants (2007 and 2021 surveys), 
 ##                                   averaged across the study area using conventional distance sampling (visits 2 & 3). 
 
 
