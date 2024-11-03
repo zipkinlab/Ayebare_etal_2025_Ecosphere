@@ -31,15 +31,15 @@
 20.  `MHDS_Maramagambo_elephants_2007_2021.R`:  Contains code to format data and to fit a modified hierarchical distance sampling model for elephants (2007 & 2021 surveys) - Maramagambo.
     
 # R scripts - To assess bias for a hierarchical  and modified hierarchical distance sampling models (Bayesian inference): using cross validation
-1.  `HDS_Maramagambo_Kalinzu_chimpanzees_2021_CV.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2021.
-2.  `MHDS_Maramagambo_Kalinzu_chimpanzees_2021_CV.R`: Assess bias for the modified hierarchical distance sampling model- chimpanzees 2021.
-3.  `HDS_Maramagambo_Kalinzu_chimpanzees_2007_CV.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2007.
-4.  `MHDS_Maramagambo_Kalinzu_chimpanzees_2007_CV.R`: Assess bias for the modified hierarchical distance sampling model- chimpanzees 2007.
-5.  `HDS_Maramagambo_elephants_2021_CV.R`: Assess bias for the hierarchical distance sampling model- elephants 2021.
-6.  `MHDS_Maramagambo_elephants_2021_CV.R`: Assess bias for the hierarchical distance sampling model- elephants 2021.
-7.  `HDS_Maramagambo_elephants_2007_CV.R`: Assess bias for the hierarchical distance sampling model- elephants 2007.
-8.  `MHDS_Maramagambo_elephants_2007_CV.R`: Assess bias for the hierarchical distance sampling model- elephants 2007.
-9.  `Relative_bias_estimation.R`: To estimate relative_bias = sum(expected number of signs – observed number of signs )/ sum(observed number of signs).
+1.  `CV_Maramagambo_Kalinzu_chimpanzees_2021_HDS.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2021.
+2.  `CV_Maramagambo_Kalinzu_chimpanzees_2021_MHDS.R`: Assess bias for the modified hierarchical distance sampling model- chimpanzees 2021.
+3.  `CV_Maramagambo_Kalinzu_chimpanzees_2007_HDS.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2007.
+4.  `CV_Maramagambo_Kalinzu_chimpanzees_2007_MHDS.R`: Assess bias for the modified hierarchical distance sampling model- chimpanzees 2007.
+5.  `CV_Maramagambo_elephants_2021_HDS.R`: Assess bias for the hierarchical distance sampling model- elephants 2021.
+6.  `CV_Maramagambo_elephants_2021_MHDS.R`: Assess bias for the hierarchical distance sampling model- elephants 2021.
+7.  `CV_Maramagambo_elephants_2007_HDS.R`: Assess bias for the hierarchical distance sampling model- elephants 2007.
+8.  `CV_Maramagambo_elephants_2007_MHDS.R`: Assess bias for the hierarchical distance sampling model- elephants 2007.
+9.  `CV_Relative_bias_estimation_HDS_MHDS.R`: To estimate relative_bias = sum(expected number of signs – observed number of signs )/ sum(observed number of signs).
 
 # # R scripts - Figures
 1.  `Spatial_variation_in_density_chimps_2021.R`: Contains code to generate figure 3 on the spatial distribution of chimpanzees using the hierarchical and modified hierarchical distance sampling models (2021 survey)
