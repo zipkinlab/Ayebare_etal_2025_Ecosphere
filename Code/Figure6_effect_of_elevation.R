@@ -1,8 +1,8 @@
 ## Author: Neil Gilbert & Samuel Ayebare
-##Script:  Figure3_effect_of_elevation.R
+##Script:  Figure6_effect_of_elevation.R
 
 
-## Description : To plot figure3 (i.e., Effect of elevation on the expected density of chimpanzees and elephants for the 
+## Description : To plot figure6 (i.e., Effect of elevation on the expected density of chimpanzees and elephants for the 
 ##       2007 and 2021 surveys estimated using the modified approach and the standard approach)
 
 
