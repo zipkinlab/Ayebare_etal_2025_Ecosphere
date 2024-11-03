@@ -2,7 +2,7 @@
 ##Script:  Spatial_variation_in_density_chimps_2021.R
 
 
-## Description : To plot figure5 - Spatial variation in density for chimpanzees  and elephants 
+## Description : To plot figure3 - Spatial variation in density for chimpanzees  and elephants 
 ##               using the hierarchical and modified hierarchical distance sampling models for the 2021 survey
 
 
