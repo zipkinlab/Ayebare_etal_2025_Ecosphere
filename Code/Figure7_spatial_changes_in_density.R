@@ -1,8 +1,8 @@
 ## Authors: Neil Gilbert & Samuel Ayebare
-##Script:  Figure3_effect_of_elevation.R
+##Script:  Figure7_effect_of_elevation.R
 
 
-## Description : To plot figure4 (i.e., Map showing the spatial changes in expected population density from 2007 to 2021 
+## Description : To plot figure7 (i.e., Map showing the spatial changes in expected population density from 2007 to 2021 
 ##               for chimpanzees (left) and elephants (right))
 
 
