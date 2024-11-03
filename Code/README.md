@@ -30,7 +30,7 @@
 19.  `HDS_Maramagambo_elephants_2021.R`:  Contains code to format data and to fit a hierarchical distance sampling model for elephants (2021 survey) - Maramagambo.
 20.  `MHDS_Maramagambo_elephants_2007_2021.R`:  Contains code to format data and to fit a modified hierarchical distance sampling model for elephants (2007 & 2021 surveys) - Maramagambo.
     
-# R scripts - To assess bias for a hierarchical  and modified hierarchical distance sampling models (Bayesian inference)- using cross-validation
+# R scripts - To assess bias for a hierarchical  and modified hierarchical distance sampling models (Bayesian inference): using cross validation
 1.  `HDS_Maramagambo_Kalinzu_chimpanzees_2021_CV.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2021.
 2.  `MHDS_Maramagambo_Kalinzu_chimpanzees_2021_CV.R`: Assess bias for the modified hierarchical distance sampling model- chimpanzees 2021.
 3.  `HDS_Maramagambo_Kalinzu_chimpanzees_2007_CV.R`: Assess bias for the hierarchical distance sampling model- chimpanzees 2007.
