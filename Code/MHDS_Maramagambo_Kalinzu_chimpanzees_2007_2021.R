@@ -629,7 +629,7 @@ for(i in 1:nind23.2021){
   #Negative binomial formulation
   lambda.star1.2007[s] <- rho1.2007[s] * lambda1.2007[s]
 
-  #Overdispersion parameter for Expected nests
+  #Overdispersion parameter
   rho1.2007[s] ~ dgamma(r.N1.2007, r.N1.2007)
   
   }
@@ -674,7 +674,7 @@ for(i in 1:nind23.2021){
   #Negative binomial formulation
   lambda.star1.2021[s] <- rho1.2021[s] * lambda1.2021[s]
 
-  #Overdispersion parameter for Expected nests
+  #Overdispersion parameter 
   rho1.2021[s] ~ dgamma(r.N1.2021, r.N1.2021)
   
   }
