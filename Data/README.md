@@ -140,11 +140,11 @@
 1.  **`Bias_hds_2021_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2021) used to estimate relative bias for a hierarchical distance sampling model.
 2.  **`Bias_hds_2021_eles_transects.csv`**:   Estimated bias of the sign density for elephants (2021) used to estimate relative bias for a hierarchical distance sampling model.
 3.  **`Bias_hds_2007_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a hierarchical distance sampling model.
-4.  **`Bias_hds_2007_eles_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a hierarchical distance sampling model.
+4.  **`Bias_hds_2007_eles_transects.csv`**:  Estimated bias of the sign density for elephants (2007) used to estimate relative bias for a hierarchical distance sampling model.
 5.  **`Bias_mhds_2021_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2021) used to estimate relative bias for a modified hierarchical distance sampling model.
 6.  **`Bias_mhds_2021_eles_transects.csv`**:   Estimated bias of the sign density for elephants (2021) used to estimate relative bias for a modified hierarchical distance sampling model.
 7.  **`Bias_mhds_2007_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a modified hierarchical distance sampling model.
-8.  **`Bias_mhds_2007_eles_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a modified hierarchical distance sampling model.
+8.  **`Bias_mhds_2007_eles_transects.csv`**:  Estimated bias of the sign density for elephants (2007) used to estimate relative bias for a modified hierarchical distance sampling model.
 
 
     -   **Variables**
