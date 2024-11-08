@@ -119,9 +119,41 @@
 10. Eles_2007_2021_mara_mhds.RData: - model results (2007 & 2021 surveys) for elephants from a modified hierarchical distance sampling model (Bayesian inference).
                                      ## File greater than 25mb Github file size limit - Run this script `MHDS_Maramagambo_elephants_2007_2021.R` to obtain model results.
 
-# Data - plotting bias in sign density of chimpanzees and elephants
+# Data - bias results
 
-1.  **`Kalinzu_Mara_combined_R2_2007.csv`**: input file (2007 survey) to estimate the population density of chimpanzees in Maramagambo and Kalinzu combined (default variance estimator - "R2").
+1.  **`Bias_chimps_hds_mhds_2021.csv`**: Estimated bias of the sign density for chimpanzees (2021) used to plot Appendix S1:Figures S3.
+2.  **`Bias_elephants_hds_mhds_2021.csv`**: Estimated bias of the sign density for elephants (2021) used to plot Appendix S1:Figures S3.
+3.   **`Bias_chimps_hds_mhds_2007.csv`**: Estimated bias of the sign density for chimpanzees (2007) used to plot Appendix S1:Figures S4.
+4.   **`Bias_elephants_hds_mhds_2007.csv`**: Estimated bias of the sign density for elephants (2007) used to plot Appendix S1:Figures S4.
+
+    -   **Variables**
+-   Transects: unique identification for each line transect (character).
+-   Tr_id: unique identification for each line transect (numeric).
+-   Model: unique identifier indicating model membership for either MHDS (i.e., modified hierarchical distance sampling model) and HDS (i.e., hierarchical distance sampling model).
+-   sd: standard deviation.
+-   l25: lower 95% credible interval.
+-   u25: upper 95% credible interval.
+
+
+# Data - estimating relative bias
+
+1.  **`Bias_hds_2021_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2021) used to estimate relative bias for a hierarchical distance sampling model.
+2.  **`Bias_hds_2021_eles_transects.csv`**:   Estimated bias of the sign density for elephants (2021) used to estimate relative bias for a hierarchical distance sampling model.
+3.  **`Bias_hds_2007_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a hierarchical distance sampling model.
+4.  **`Bias_hds_2007_eles_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a hierarchical distance sampling model.
+5.  **`Bias_mhds_2021_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2021) used to estimate relative bias for a modified hierarchical distance sampling model.
+6.  **`Bias_mhds_2021_eles_transects.csv`**:   Estimated bias of the sign density for elephants (2021) used to estimate relative bias for a modified hierarchical distance sampling model.
+7.  **`Bias_mhds_2007_chimps_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a modified hierarchical distance sampling model.
+8.  **`Bias_mhds_2007_eles_transects.csv`**:  Estimated bias of the sign density for chimpanzees (2007) used to estimate relative bias for a modified hierarchical distance sampling model.
+
+
+    -   **Variables**
+-   transects: unique identification for each line transect (character).
+-   Model: unique identifier indicating model membership for either MHDS (i.e., modified hierarchical distance sampling model) and HDS (i.e., hierarchical distance sampling model).
+-   bias_per_transect: estimated bias per transect (expected number of signs – observed number of signs)
+-   observed_dung: number of elephant dung observed at each omitted transect.
+-   observed_nests: number of chimpanzee nests observed at each omitted transect.
+
 
 # # Data - protected area boundaries & elevation raster
 
