@@ -211,10 +211,10 @@ for(s in 1:nsites){
 
   
   
-  #Expected Number of Groups
+  #Expected number of elephant dung
     lambda.star23[s] <- rho23[s] * lambda23[s]
 
-    #Overdispersion parameter for Expected Number of Groups
+    #Overdispersion parameter for Expected number of elephant dung
     rho23[s] ~ dgamma(r.N23, r.N23)
   
 }
