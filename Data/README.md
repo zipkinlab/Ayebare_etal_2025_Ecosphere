@@ -150,7 +150,7 @@
     -   **Variables**
 -   transects: unique identification for each line transect (character).
 -   Model: unique identifier indicating model membership for either MHDS (i.e., modified hierarchical distance sampling model) and HDS (i.e., hierarchical distance sampling model).
--   bias_per_transect: estimated bias per transect (expected number of signs – observed number of signs)
+-   bias_per_transect: estimated bias per transect (expected number of signs – observed number of signs).
 -   observed_dung: number of elephant dung observed at each omitted transect.
 -   observed_nests: number of chimpanzee nests observed at each omitted transect.
 
