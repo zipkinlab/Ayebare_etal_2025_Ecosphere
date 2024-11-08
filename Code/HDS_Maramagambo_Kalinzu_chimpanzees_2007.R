@@ -212,7 +212,7 @@ for(i in 1:nind23){
     #Negative binomial formulation
     lambda.star23[s] <- rho23[s] * lambda23[s]
 
-    #Overdispersion parameter for Expected nests
+    #Overdispersion parameter
     rho23[s] ~ dgamma(r.N23, r.N23)
   
 }
