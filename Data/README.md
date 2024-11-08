@@ -119,6 +119,10 @@
 10. Eles_2007_2021_mara_mhds.RData: - model results (2007 & 2021 surveys) for elephants from a modified hierarchical distance sampling model (Bayesian inference).
                                      ## File greater than 25mb Github file size limit - Run this script `MHDS_Maramagambo_elephants_2007_2021.R` to obtain model results.
 
+# Data - plotting bias in sign density of chimpanzees and elephants
+
+1.  **`Kalinzu_Mara_combined_R2_2007.csv`**: input file (2007 survey) to estimate the population density of chimpanzees in Maramagambo and Kalinzu combined (default variance estimator - "R2").
+
 # # Data - protected area boundaries & elevation raster
 
 1.  **`Kalinzu_FR.**`**:  (4 files) -  boundary for Kalinzu Forest Reserve. 
