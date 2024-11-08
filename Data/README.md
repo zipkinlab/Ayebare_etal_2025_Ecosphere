@@ -119,7 +119,7 @@
 10. Eles_2007_2021_mara_mhds.RData: - model results (2007 & 2021 surveys) for elephants from a modified hierarchical distance sampling model (Bayesian inference).
                                      ## File greater than 25mb Github file size limit - Run this script `MHDS_Maramagambo_elephants_2007_2021.R` to obtain model results.
 
-# Data - bias results
+# Data - bias estimates
 
 1.  **`Bias_chimps_hds_mhds_2021.csv`**: Estimated bias of the sign density for chimpanzees (2021) used to plot Appendix S1:Figures S3.
 2.  **`Bias_elephants_hds_mhds_2021.csv`**: Estimated bias of the sign density for elephants (2021) used to plot Appendix S1:Figures S3.
