@@ -1,5 +1,5 @@
 # Ayebare_etal_2024
-# Improving population analysis using indirect count data: a case study of chimpanzees and elephants in western Uganda
+# Improving population analysis using indirect count data: a case study of chimpanzees and elephants
 
 
 ## Abstract:
