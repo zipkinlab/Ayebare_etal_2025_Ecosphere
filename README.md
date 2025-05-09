@@ -15,13 +15,13 @@ ________________________________________________________________________________
 
 ## Repository Directory
 
-## Data
+## [Data](./Data)
 
 This folder contains indirect count data for chimpanzees (i.e, nests) and elephants (i.e., dung) for the 2007 and 2021 survey periods. The datasets were used to estimate the population status and change of chimpanzees and elephants in Maramagambo and Kalinzu Forest Reserves located in western Uganda across two survey periods (i.e., 2007 and 2021).
 
 The files are in a.csv and .Rdata format (i.e., output from R programing software).
 
-## Code
+## [Code](./Code)
 
 This folder contains all the code required to fit conventional, hierarchical and modified hierarchical distance sampling models.
 
